@@ -14,3 +14,5 @@ void loop(){
     servo maju();
     delay(100);
 }
+
+//Ilyas kontol
