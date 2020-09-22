@@ -15,4 +15,4 @@ void loop(){
     delay(100);
 }
 
-//Ilyas kontol
+//Ilyas kontoll
